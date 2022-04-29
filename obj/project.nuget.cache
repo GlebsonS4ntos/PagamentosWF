@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8IwSJWrK7hzGqAPlSonjLVTo5D1BuWiXx1zrstna5YYaGLS7i9Y6vDQ7n0bERaMOcW0RFVO5ZswxvXZWE+T5hg==",
+  "success": true,
+  "projectFilePath": "E:\\ProjetosCast\\CsharpIntermediario\\App40\\App40.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glebs\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\glebs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
